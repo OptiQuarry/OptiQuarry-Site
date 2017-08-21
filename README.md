@@ -1,2 +1,0 @@
-# OptiQuarry-Site
-Website
