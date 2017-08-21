@@ -1,1 +1,83 @@
 optiquarry.com
+
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="ie=edge">
+		<title>Project Squared | Home</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+		<meta name="keywords" content="Project Squared">
+		<meta name="description" content="We are a non-profit minecraft-based organization who aims to educate minecraft server owners, entrepreneurs, designers, illustrators and developers on their respective fields to further their success in the world of minecraft market. We will be giving and hosting lectures, one on one lessons, as well as offer free services and advice through the help of our dedicated partners. ">
+
+		<meta property="og:type" content="website">
+		<meta property="og:url" content="https://squared.business">
+		<meta property="og:site_name" content="Project Squared">
+		<meta property="og:description" content="We are a non-profit minecraft-based organization who aims to educate minecraft server owners, entrepreneurs, designers, illustrators and developers on their respective fields to further their success in the world of minecraft market. We will be giving and hosting lectures, one on one lessons, as well as offer free services and advice through the help of our dedicated partners. ">
+		<meta property="og:locale" content="en-US">
+
+		<meta name="twitter:domain" content="squared.business">
+		<meta name="twitter:url" content="https://squared.business">
+		<meta name="twitter:description" content="Project Squared">
+		<meta name="twitter:site" content="@ProjectSquared2">
+
+		<meta name="robots" content="index,follow,noodp,noydir">
+		<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900" rel="stylesheet">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha256-916EbMg70RQy9LHiGkXzG8hSg9EdNy97GazNG/aiY1w=" crossorigin="anonymous">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css" integrity="sha256-HxaKz5E/eBbvhGMNwhWRPrAR9i/lG1JeT4mD6hCQ7s4=" crossorigin="anonymous" />
+		<link href="https://squared.business/assets/css/responsive.min.css" rel="stylesheet">
+		<link href="https://squared.business/assets/css/style.min.css" rel="stylesheet">
+		<link href="https://squared.business/assets/css/squared.min.css" rel="stylesheet">
+
+		<link rel="apple-touch-icon" sizes="57x57" href="https://squared.business/assets/img/favicon/apple-icon-57x57.png">
+		<link rel="apple-touch-icon" sizes="60x60" href="https://squared.business/assets/img/favicon/apple-icon-60x60.png">
+		<link rel="apple-touch-icon" sizes="72x72" href="https://squared.business/assets/img/favicon/apple-icon-72x72.png">
+		<link rel="apple-touch-icon" sizes="76x76" href="https://squared.business/assets/img/favicon/apple-icon-76x76.png">
+		<link rel="apple-touch-icon" sizes="114x114" href="https://squared.business/assets/img/favicon/apple-icon-114x114.png">
+		<link rel="apple-touch-icon" sizes="120x120" href="https://squared.business/assets/img/favicon/apple-icon-120x120.png">
+		<link rel="apple-touch-icon" sizes="144x144" href="https://squared.business/assets/img/favicon/apple-icon-144x144.png">
+		<link rel="apple-touch-icon" sizes="152x152" href="https://squared.business/assets/img/favicon/apple-icon-152x152.png">
+		<link rel="apple-touch-icon" sizes="180x180" href="https://squared.business/assets/img/favicon/apple-icon-180x180.png">
+		<link rel="icon" type="image/png" sizes="192x192" href="https://squared.business/assets/img/favicon/android-icon-192x192.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="https://squared.business/assets/img/favicon/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="96x96" href="https://squared.business/assets/img/favicon/favicon-96x96.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="https://squared.business/assets/img/favicon/favicon-16x16.png">
+		<link rel="manifest" href="https://squared.business/assets/img/favicon/manifest.json">
+		<meta name="msapplication-TileColor" content="#212121">
+		<meta name="msapplication-TileImage" content="https://squared.business/assets/img/favicon/ms-icon-144x144.png">
+		<meta name="theme-color" content="#212121">
+<nav class="navbar navbar-default navbar-static-top">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="/">
+        <img src="https://squared.business/assets/img/squared_dark-01.svg" alt="ProjectSquared" class="img-responsive" style="width: 100px;">
+      </a>
+    </div>
+    <div class="collapse navbar-collapse" id="navbar-collapse-1">
+      <ul class="nav navbar-nav navbar-right">
+        <li class="active"><a href="https://squared.business/">Home</a></li>
+        <li ><a href="https://squared.business/partners">Partners</a></li>
+        <li ><a href="https://squared.business/archive">Archive</a></li>
+        <li ><a href="https://squared.business/about">About</a></li>
+        <li ><a href="https://squared.business/contact">Contact</a></li>
+        <li><a href="https://squared.business/discord">Discord</a></li>
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
+<div id="header">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-9">
+        <h1>
+          Some catchy phrase thing to go here, and be very modest, and interesting!
+        </h1>
+      </div>
+    </div>
+  </div>
+</div>
